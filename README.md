@@ -1,5 +1,7 @@
 # HOW TO INSTALL
+- Install SDL3
+- Configure SDL3 according to you ide
+- Compile
+- Run!!!
 
-
-# # Note:
-- In this programm SDL3 is just used to render what's in the back
+# Note:
